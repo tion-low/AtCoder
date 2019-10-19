@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace AtCoder
 {
-    internal class Program
+    internal class Coins
     {
         public static void Main(string[] args)
         {
